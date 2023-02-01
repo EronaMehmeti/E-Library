@@ -1,4 +1,4 @@
-﻿namespace ELibrary.Data.Models
+﻿namespace ELibrary.Models
 {
     public class Borrow
     {
@@ -10,11 +10,11 @@
 
         public int MemberId { get; set; }
 
-        public int Isbn { get; set; }
+        public int BookId { get; set; }
 
-        public Book book{ get; set; }
+        public Book Book{ get; set; }
 
-        public Member member{ get; set; }
+        public Member Member{ get; set; }
 
 
 

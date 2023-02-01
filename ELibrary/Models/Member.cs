@@ -1,4 +1,4 @@
-﻿namespace ELibrary.Data.Models
+﻿namespace ELibrary.Models
 {
     public class Member
     {

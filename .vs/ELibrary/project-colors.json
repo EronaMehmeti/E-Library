@@ -5,6 +5,11 @@
       "ProjectGuid": "8a298ea5-2ac0-4883-b4ce-ef70dc926faf",
       "DisplayName": "ELibrary",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 1
