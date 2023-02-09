@@ -17,6 +17,5 @@
         public Member Member{ get; set; }
 
 
-
     }
 }
